@@ -1,3 +1,4 @@
+![Alt text](./images/grint.gif)
 # 💫 About Me:
 > Aspiring Computer Science Engineer with a strong foundation in cybersecurity and proficiency in various programming languages. Eager to leverage technical skills and analytical abilities in a dynamic environment, contributing to innovative projects that drive technological advancement.<br><br>> Committed to continuous learning and professional growth, with a passion for tackling complex challenges and developing effective solutions. Prepared to collaborate with diverse teams to create impactful software and enhance security measures.
 
